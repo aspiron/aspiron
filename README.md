@@ -1,33 +1,41 @@
 ### Hi there 👋
 
-😀 My name is Alex. I’m currently looking for a job as Manual QA Engineer (junior/trainee). 
+Hi there 👋
 
-I have an experience in Web testing, API testing with Postman, mobile testing, writing check-lists, test-cases, bug-reports.
-I also have such knowledge as:
-- software testing theory;
-- basic knowledge and skills with Chrome DevTools (view code elements, errors, scripts and server responses);
-- basic knowledge and skills with Postman: sending requests, checking JSON structure, code status and response values;
-- TestRail, Qase, Sitechco.ru, Notion, Trello;
-- basics of Selenium IDE;
-- basics of Android Studio, Appium Server;
-- basic knowledge and skills with Git;
-- basic knowledge about Java;
-- basic knowledge about Databases (SQL, noSQL - simple requests, creating and editing databases).
+I’m Alex — a Junior QA Engineer open to opportunities.
 
-## ✌️ Follow me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-piron-782473241/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexpiron)
+QA Engineer with 8+ years of professional experience in legal consulting, bringing strong analytical thinking, attention to detail, and experience working with complex requirements. Transitioning into software testing with strong theoretical knowledge and currently building practical skills in manual and automation testing.
 
-## 🔧 Languages and Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)<br/>
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Header](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+🔍 Core Skills
+- Manual testing: web, API, mobile
+- Test design: test cases, checklists, bug reports
+- Requirements analysis and edge case identification
+- API testing (Postman: requests, status codes, JSON validation)
+- Basic UI automation (Selenium, Java)
+- Basic mobile automation (Appium, Android)
 
-## 📈 GitHub Stats
-![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiron&show_icons=true&theme=radical)
+🧠 Technical Skills
+- Software testing fundamentals (SDLC, STLC, test design techniques)
+- Chrome DevTools (network, console, DOM)
+- SQL / NoSQL (basic queries, data validation)
+- Git (basic workflows)
+ -Java (basic level)
+
+🛠 Tools
+
+Postman • TestRail • Qase • Jira • Selenium • Android Studio • Git • Notion • 
+
+🌍 Languages
+English — Upper-Intermediate (B2–C1)
+German — Pre-Intermediate (A2–B1)
+Russian — Native / Fluent
+Ukrainian — Native / Fluent
+---
+📂 GitHub Portfolio includes:
+- Test documentation (test cases, checklists)
+- API testing collections (Postman)
+- Basic UI and mobile automation tests
+
+📫 Contact
+[![LinkedIn](https://www.linkedin.com/in/a-piron/)
+[Telegram](https://t.me/manamananana)
