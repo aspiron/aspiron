@@ -28,7 +28,7 @@ TestRail • Qase • Devtools • Postman • Android Studio • Devtools • G
 
 #### 🌍 Languages
 - English — Upper-Intermediate (B2–C1) 
-- German — Pre-Intermediate (A2–B1) 
+- German — Intermediate (B1-B2) 
 - Russian — Native / Fluent 
 - Ukrainian — Native / Fluent
 
